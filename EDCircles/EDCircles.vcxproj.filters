@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="CannyEdgeDetector.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CannyEdgeDetector.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
